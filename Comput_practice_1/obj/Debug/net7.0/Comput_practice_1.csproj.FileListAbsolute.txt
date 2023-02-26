@@ -1,0 +1,15 @@
+/Users/ostapkilbasovych/ProjectsC#/Comput_practice_1/Comput_practice_1/obj/Debug/net7.0/Comput_practice_1.csproj.AssemblyReference.cache
+/Users/ostapkilbasovych/ProjectsC#/Comput_practice_1/Comput_practice_1/obj/Debug/net7.0/Comput_practice_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ostapkilbasovych/ProjectsC#/Comput_practice_1/Comput_practice_1/obj/Debug/net7.0/Comput_practice_1.AssemblyInfoInputs.cache
+/Users/ostapkilbasovych/ProjectsC#/Comput_practice_1/Comput_practice_1/obj/Debug/net7.0/Comput_practice_1.AssemblyInfo.cs
+/Users/ostapkilbasovych/ProjectsC#/Comput_practice_1/Comput_practice_1/obj/Debug/net7.0/Comput_practice_1.csproj.CoreCompileInputs.cache
+/Users/ostapkilbasovych/ProjectsC#/Comput_practice_1/Comput_practice_1/bin/Debug/net7.0/Comput_practice_1
+/Users/ostapkilbasovych/ProjectsC#/Comput_practice_1/Comput_practice_1/bin/Debug/net7.0/Comput_practice_1.deps.json
+/Users/ostapkilbasovych/ProjectsC#/Comput_practice_1/Comput_practice_1/bin/Debug/net7.0/Comput_practice_1.runtimeconfig.json
+/Users/ostapkilbasovych/ProjectsC#/Comput_practice_1/Comput_practice_1/bin/Debug/net7.0/Comput_practice_1.dll
+/Users/ostapkilbasovych/ProjectsC#/Comput_practice_1/Comput_practice_1/bin/Debug/net7.0/Comput_practice_1.pdb
+/Users/ostapkilbasovych/ProjectsC#/Comput_practice_1/Comput_practice_1/obj/Debug/net7.0/Comput_practice_1.dll
+/Users/ostapkilbasovych/ProjectsC#/Comput_practice_1/Comput_practice_1/obj/Debug/net7.0/refint/Comput_practice_1.dll
+/Users/ostapkilbasovych/ProjectsC#/Comput_practice_1/Comput_practice_1/obj/Debug/net7.0/Comput_practice_1.pdb
+/Users/ostapkilbasovych/ProjectsC#/Comput_practice_1/Comput_practice_1/obj/Debug/net7.0/Comput_practice_1.genruntimeconfig.cache
+/Users/ostapkilbasovych/ProjectsC#/Comput_practice_1/Comput_practice_1/obj/Debug/net7.0/ref/Comput_practice_1.dll

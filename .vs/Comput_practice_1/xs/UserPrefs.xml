@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{38DC2376-6429-458F-880C-8AE1ABE7803B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Comput__practice__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Comput_practice_1/Program.cs">
+    <Files>
+      <File FileName="Comput_practice_1/Program.cs" Line="22" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Comput_practice_1" expanded="True">
+            <Node name="Comput_practice_1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
